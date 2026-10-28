@@ -89,7 +89,7 @@ Action_management_system/
 
    ```bash
    git clone https://github.com/veesaxena15/Action_Management_System.git
-   cd Task_Management_System
+   cd Action_Management_System
    ```
 
 2. **Create and activate virtual environment**
