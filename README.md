@@ -1,8 +1,8 @@
-# Task Management System
+# Action Management System
 
 ## 📌 Project Overview
 
-The **Task Management System** is a full-stack web application developed during my training to manage tasks efficiently.
+The **Action Management System** is a full-stack web application developed during my training to manage tasks efficiently.
 It provides features such as user authentication, task creation, updating, deletion, categorization, and deadline tracking.
 
 This project was built using:
@@ -52,7 +52,7 @@ This project was built using:
 ## 📂 Project Structure (simplified)
 
 ```
-task_management_system/
+Action_management_system/
 │── manage.py
 │── requirements.txt
 │── db.sqlite3
@@ -88,7 +88,7 @@ task_management_system/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/veesaxena15/Task_Management_System.git
+   git clone https://github.com/veesaxena15/Action_Management_System.git
    cd Task_Management_System
    ```
 
@@ -126,11 +126,7 @@ task_management_system/
 
 ---
 
-## 👥 Team Members
+## 👥 Author
 
 * **Veer Saxena**
-* **Unnati Srivastava**
-* **Vandana Mishra**
-* **Ujjyant Bajpai**
-
 ---
